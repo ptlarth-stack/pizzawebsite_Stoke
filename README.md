@@ -1,1 +1,1 @@
-This is a demo website Pizza.
+This is a demo website for Pizza.
